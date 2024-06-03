@@ -1,0 +1,6 @@
+/home/ubuntu/polyndrap/workspace/projects/lab03/formatter_ex_lib/_build/CMakeFiles/formatter_ex_lib.dir
+/home/ubuntu/polyndrap/workspace/projects/lab03/formatter_ex_lib/_build/CMakeFiles/edit_cache.dir
+/home/ubuntu/polyndrap/workspace/projects/lab03/formatter_ex_lib/_build/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/polyndrap/workspace/projects/lab03/formatter_ex_lib/_build/formatter_lib/CMakeFiles/formatter_lib.dir
+/home/ubuntu/polyndrap/workspace/projects/lab03/formatter_ex_lib/_build/formatter_lib/CMakeFiles/edit_cache.dir
+/home/ubuntu/polyndrap/workspace/projects/lab03/formatter_ex_lib/_build/formatter_lib/CMakeFiles/rebuild_cache.dir
