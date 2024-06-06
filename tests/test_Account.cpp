@@ -13,7 +13,6 @@ TEST(Account, Banking) {
     ASSERT_NO_THROW(test.ChangeBalance(50));  // Проверка на успешное изменение баланса с суммой <= 50
     ASSERT_EQ(test.GetBalance(), 50);
 
-    // Этот вызов вызовет исключение, так как сумма превышает 50
     ASSERT_NO_THROW(test.ChangeBalance(100));  // Ожидается выброс исключения, тест выдаст ошибку
 
     ASSERT_EQ(test.GetBalance(), 100);
